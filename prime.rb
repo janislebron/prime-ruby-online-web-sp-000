@@ -1,1 +1,6 @@
-# Add  code here!
+def prime ()
+  if 6n+1 or 6n-1
+    true
+  else
+    false
+end
